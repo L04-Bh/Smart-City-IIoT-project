@@ -46,9 +46,9 @@ The Home Gateway acts as the central controller of the Smart City network. All I
 
 The Solar Panel monitors sunlight intensity, while two Motion Detectors independently monitor the lighting and surveillance zones. Based on the configured automation rules, the Home Gateway controls the street lights, webcam, and siren automatically.
 
-### System Overview
+### System Overview Architecture
 
-![System Overview](Screenshots/System_Overview.png)
+![System Overview Architecture](Screenshots/System_Overview_Architecture.png)
 
 ---
 
