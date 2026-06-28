@@ -50,7 +50,7 @@ Based on predefined automation rules, the Home Gateway automatically controls th
 
 ### System Overview
 
-![System Overview](Screenshots/System_Overview.png)
+![System Overview](Screenshots/System_Overview_Architecture.png)
 
 ---
 
@@ -209,11 +209,14 @@ Smart-City-IIoT-Project
 
 ---
 
-### 💻 Cisco Packet Tracer Project
+### 💻 Cisco Packet Tracer Simulation
 
-💻 **Packet Tracer Simulation**
+The complete Smart City Automation simulation can be downloaded below.
 
-[Smart_City_Automation.pkt](Smart_City_IIoT/Smart_City_Automation.pkt)
+💻 **Packet Tracer Project:**  
+[smartcity.pkt](Smart_City_IIoT/smartcity.pkt)
+
+> **Note:** GitHub does not support previewing Cisco Packet Tracer (.pkt) files. Download the file and open it using Cisco Packet Tracer.
 
 ---
 
