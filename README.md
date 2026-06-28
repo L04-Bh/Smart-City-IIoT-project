@@ -24,6 +24,15 @@ The project demonstrates the practical implementation of **Industrial Internet o
 
 ---
 
+## 🎥 Project Demonstration Video
+
+The complete simulation and working demonstration of the Smart City Automation System is available on Google Drive.
+
+🔗 **Google Drive:**
+https://drive.google.com/file/d/1KOVyEG64guYxyH4xlFersoaL_sMk4MLm/view?usp=sharing
+
+---
+
 ## 🛠 Components Used
 
 * Home Gateway
@@ -48,12 +57,6 @@ The **Home Gateway** serves as the central controller of the Smart City network.
 
 Based on predefined automation rules, the Home Gateway automatically controls the street lights, webcam, and siren, creating an intelligent and energy-efficient smart city environment.
 
-## 🎥 Project Demonstration Video
-
-The complete simulation and working demonstration of the Smart City Automation System is available on Google Drive.
-
-🔗 **Google Drive:**
-https://drive.google.com/file/d/1KOVyEG64guYxyH4xlFersoaL_sMk4MLm/view?usp=sharing
 
 ### System Overview
 
