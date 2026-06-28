@@ -48,6 +48,13 @@ The **Home Gateway** serves as the central controller of the Smart City network.
 
 Based on predefined automation rules, the Home Gateway automatically controls the street lights, webcam, and siren, creating an intelligent and energy-efficient smart city environment.
 
+## 🎥 Project Demonstration Video
+
+The complete simulation and working demonstration of the Smart City Automation System is available on Google Drive.
+
+🔗 **Google Drive:**
+https://drive.google.com/file/d/1KOVyEG64guYxyH4xlFersoaL_sMk4MLm/view?usp=sharing
+
 ### System Overview
 
 ![System Overview](Screenshots/System_Overview_Architecture.png)
@@ -215,17 +222,6 @@ The complete Smart City Automation simulation can be downloaded below.
 [smartcity.pkt](Smart_City_IIoT/smartcity.pkt)
 
 > **Note:** GitHub does not support previewing Cisco Packet Tracer (.pkt) files. Download the file and open it using Cisco Packet Tracer.
-
----
-
-## 🎥 Project Demonstration Video
-
-The complete simulation and working demonstration of the Smart City Automation System is available on Google Drive.
-
-🔗 **Google Drive:**
-https://drive.google.com/file/d/1KOVyEG64guYxyH4xlFersoaL_sMk4MLm/view?usp=sharing
-
----
 
 ## 💻 Software and Simulation Environment
 
