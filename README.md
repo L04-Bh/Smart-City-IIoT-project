@@ -112,7 +112,7 @@ Based on predefined automation rules, the Home Gateway automatically controls th
 
 When no vehicle or pedestrian is detected, all street lights are automatically switched **OFF** to reduce unnecessary energy consumption.
 
-![No Movement](Screenshots/No_Movement_Light_OFF.png)
+![No Movement](Screenshots/No_Movement_Lights_OFF.png)
 
 ---
 
